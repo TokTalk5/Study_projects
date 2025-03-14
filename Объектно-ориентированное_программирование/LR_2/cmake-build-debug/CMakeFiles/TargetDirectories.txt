@@ -1,0 +1,3 @@
+C:/Users/tokar/Рабочий стол/2/cmake-build-debug/CMakeFiles/LR2.dir
+C:/Users/tokar/Рабочий стол/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tokar/Рабочий стол/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
